@@ -17,6 +17,7 @@
 
 ## 基本指令
 * `git init` 初始化 Git 庫
+* `git clone` 下載遠端 Git 庫
 * `git add` 添加檔案到暫存區
     * -a 全部檔案
 * `git status` 查看檔案狀態
@@ -24,3 +25,4 @@
     * -m 一行訊息
 * `git log` 查詢版本
     * --oneline 一行顯示
+* `git push` 上傳新版本到儲存庫
