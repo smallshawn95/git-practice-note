@@ -26,3 +26,12 @@
 * `git log` 查詢版本
     * --oneline 一行顯示
 * `git push` 上傳新版本到儲存庫
+
+## Branch 分支
+* `git branch` 查看現有分支
+    * -v 查看當前分支詳細資訊
+    * -d 刪除分支
+    * -D 強制刪除分支
+* `git checkout` 切換分支
+    * -b 建立新分支並切換
+* `git merge` 合併分支並建立新版本
